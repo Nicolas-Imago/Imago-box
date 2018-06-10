@@ -1,0 +1,44 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Ouvrez_les_Guillemets_Logo.jpg",
+	"Titre_Emission": "Ouvrez les Guillemets",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Usul",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Usul.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 12 min",
+	"Nombre_Saison": "2",
+	"Nombre_Video": "19",
+	"Categorie_Emission": "Société",
+	"Type_Emission": "Face caméra",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Ouvrez_les_Guillemets.jpg",
+	"Saisons": {
+		"1": {
+			"1": "19wToRIiYWI",
+			"2": "BunnZT13jm4",
+			"3": "YwLSWEQWyWI",
+			"4": "sVJpvO-ywjE",
+			"5": "GPQniCaj3Is",
+			"6": "h_u8J1bAZ5Q",
+			"7": "lQxGAH73DNE",
+			"8": "tpphm3r1Q1E",
+			"9": "KUMW5bhCsgw",
+			"10": "gsb0NlAI_N4",
+			"11": "Cazy0rc_Gx0",
+			"12": "w5QjwywpGkU"
+		},
+		"2": {
+			"1": "BQC-DmnaVu4",
+			"2": "NgbRxpj3GaE",
+			"3": "NpSgY_bBIWE",
+			"4": "BZRWF8C6DEc",
+			"5": "FYgoflX5bIg",
+			"6": "6ZBJI4uNf3o",
+			"7": "tm7LuDPS7OU"
+		}
+	}
+}

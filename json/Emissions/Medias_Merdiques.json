@@ -1,0 +1,34 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Trouble_Fait_Logo.jpg",
+	"Titre_Emission": "Médias Merdiques",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Trouble Fait",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Trouble_Fait.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 15 min",
+	"Nombre_Saison": "1",
+	"Nombre_Video": "11",
+	"Categorie_Emission": "Médias",
+	"Type_Emission": "Face caméra",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Medias_Merdiques.jpg",
+	"Saisons": {
+		"1": {
+			"1": "hMPTnNNDH_o",
+			"2": "sleXBesZSac",
+			"3": "hHPBUQE4N2M",
+			"4": "hzdGD1uoFCY",
+			"5": "q1g4hgA9lLY",
+			"6": "GQvV3PRchp4",
+			"7": "LPOi1mfWjNY",
+			"8": "7dp28etD7OM",
+			"9": "qOHFDTHbgWw",
+			"10": "Gx2SaYTJ3nY",
+			"11": "b20MBuVc-Bw"
+		}
+	}
+}

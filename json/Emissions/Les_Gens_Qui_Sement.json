@@ -1,0 +1,26 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Les_Gens_Qui_Sement_Logo.jpg",
+	"Titre_Emission": "Les Gens Qui Sèment",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Caroline, Jon & Felipe",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Caroline_Perez.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 60 min",
+	"Nombre_Saison": "1",
+	"Nombre_Video": "3",
+	"Categorie_Emission": "Société",
+	"Type_Emission": "Talk show",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Les_Gens_Qui_Sement.jpg",
+	"Saisons": {
+		"1": {
+			"1": "tlKtMvNBlZY",
+			"2": "PUqdBvKTvAE",
+			"3": "-Olpo3kzE-E"
+		}
+	}
+}

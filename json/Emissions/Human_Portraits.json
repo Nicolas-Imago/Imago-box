@@ -1,0 +1,118 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Human_Logo.jpg",
+	"Titre_Emission": "Human (Portraits)",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Yann-Arthus Bertrand",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Yann_Arthus_Bertrand.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 5 min",
+	"Nombre_Saison": "7",
+	"Nombre_Video": "83",
+	"Categorie_Emission": "Conscience",
+	"Type_Emission": "Témoignages",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Human_Portraits.jpg",
+	"Saisons": {
+		"1": {
+			"1": "G-zTLsKjRAQ",
+			"2": "NjD3-ZsuqzA",
+			"3": "JMEPUthJKqE",
+			"4": "xFKt6Q5nF5I",
+			"5": "myzYPjLiieI",
+			"6": "GNxnQHJDHdg",
+			"7": "b5ccokW5D1M",
+			"8": "I8toOdQSmxY",
+			"9": "nY20yP3OkJY",
+			"10": "vM3AbYR6FDw",
+			"11": "PTRnqmMIwmI",
+			"12": "PCORXNut2QI"
+		},
+		"2": {
+			"1": "mGC7nVvuh2s",
+			"2": "kDC2W3XzNrw",
+			"3": "rRpeQv4xsMk",
+			"4": "azTT-0jhfOY",
+			"5": "yFpfMBAZb58",
+			"6": "dbEAeLF9Opo",
+			"7": "EkqQ3KA7I38",
+			"8": "QKTs1T7m_O0",
+			"9": "B_C6FNbqqxE",
+			"10": "t5qEJOV65pM",
+			"11": "CEVlKJ8nURQ",
+			"12": "4PeOyh9jfqY"
+		},
+		"3": {
+			"1": "R5vUxT1gTrA",
+			"2": "5BSYxpJiSjM",
+			"3": "ftugbci9ohg",
+			"4": "l3m7SPiXBo4",
+			"5": "IOGeodEPTXY",
+			"6": "QrvdW-rRPSY",
+			"7": "0-r5Mag5E0g",
+			"8": "J2QOY1LMJ8k",
+			"9": "vf_movyzMck",
+			"10": "CwEF5NWZLIw",
+			"11": "Jd8z2CjXhls",
+			"12": "VJz6n8vSbsw"
+		},
+		"4": {
+			"1": "g1fTD6z9Rgk",
+			"2": "XpVd2i2n5O4",
+			"3": "O5piC2qeq5U",
+			"4": "MdA-IIWZ8Eg",
+			"5": "j-_F8puPdKk",
+			"6": "ig9urgE0Fqo",
+			"7": "wddgGvFJcPQ",
+			"8": "X6LxZZDlnY8",
+			"9": "pdObX3kiwwY",
+			"10": "S1kCM59eJxw",
+			"11": "ZM2_U_oaxBw",
+			"12": "zUbCI2TJePA"
+		},
+		"5": {
+			"1": "kQpKNWQ9ucQ",
+			"2": "2ZXWXQ6e8Bg",
+			"3": "a2E7QRzDxYw",
+			"4": "eo_I7jh-nDs",
+			"5": "XNFgPppuPv8",
+			"6": "GR6IjU7sq1o",
+			"7": "Tp8iSX1644g",
+			"8": "vkr8Pc4v5Ws",
+			"9": "QXIG-DE5lKc",
+			"10": "tcCNZQaqcl4",
+			"11": "H6MofXFsncE",
+			"12": "8thSYX9-gls"
+		},
+		"6": {
+			"1": "UTTmi4QHweo",
+			"2": "EWdH0XBjdl8",
+			"3": "_Vya44My6JI",
+			"4": "QairXaw9-NY",
+			"5": "lO-Tv0hKZA4",
+			"6": "IKWqSaNkNEY",
+			"7": "WWL2q7OEaAo",
+			"8": "lZDKpMGJIW0",
+			"9": "91CPwjk47fA",
+			"10": "_IzYxFQhdLo",
+			"11": "3lp8fpGywBw",
+			"12": "GwRs-IaJPnc"
+		},
+		"7": {
+			"1": "-TFHAQ11hVA",
+			"2": "_TThIph8w7w",
+			"3": "6B_6gpnAWTo",
+			"4": "6o2q_1o6tfE",
+			"5": "KR53laxY_Ss",
+			"6": "Nz7mDXG-c38",
+			"7": "EO4y_AcF9s4",
+			"8": "8jomr9AbCdA",
+			"9": "5qcDvS82d48",
+			"10": "GawAEMjnSwU",
+			"11": "uwZRk1sqeHk"
+		}
+	}
+}

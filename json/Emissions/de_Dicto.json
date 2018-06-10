@@ -1,0 +1,41 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/de_Dicto_Logo.jpg",
+	"Titre_Emission": "de Dicto",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Karim",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Karim_Politikon.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 12 min",
+	"Nombre_Saison": "2",
+	"Nombre_Video": "16",
+	"Categorie_Emission": "Culture",
+	"Type_Emission": "Infographie",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/de_Dicto.jpg",
+	"Saisons": {
+		"1": {
+			"1": "I8uyVbjga9Y",
+			"2": "DxWHw-IpU0g",
+			"3": "-dbDVmBsE4s",
+			"4": "gMIpjM8xLzM",
+			"5": "UrzraH8oFdE",
+			"6": "xiJx1g91LYk",
+			"7": "spdWp7ocFgE",
+			"8": "SG9ZGcPplIs",
+			"9": "bKQECat59_E",
+			"10": "Vywj5m8o3tw",
+			"11": "zZcYNrCEA6U",
+			"12": "fXbym1hArXo"
+		},
+		"2": {
+			"1": "yvC-F43oE1U",
+			"2": "5lLKwizHxI8",
+			"3": "I4j2LwCPq2g",
+			"4": "lMEOmrOX-Aw"
+		}
+	}
+}

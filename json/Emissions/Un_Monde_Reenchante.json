@@ -1,0 +1,40 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Un_Monde_Reenchante_Logo.jpg",
+	"Titre_Emission": "Un Monde Réenchanté",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Ariane Vitalis",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Ariane_Vitalis.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 2 min",
+	"Nombre_Saison": "2",
+	"Nombre_Video": "15",
+	"Categorie_Emission": "Conscience",
+	"Type_Emission": "Témoignage",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Un_Monde_Reenchante.jpg",
+	"Saisons": {
+		"1": {
+			"1": "AyTwz9gSuQg",
+			"2": "vs5_SOSUDTM",
+			"3": "6O1v3QqXSrw",
+			"4": "ozfEpPicYUo",
+			"5": "2TruB7kKpJA",
+			"6": "OH1KHddhypA",
+			"7": "9Mrx4rObk7I",
+			"8": "a8hWnt0gcQ4",
+			"9": "knB7-xNeHFE",
+			"10": "tFk5jswmLZM",
+			"11": "5VgGLBOm8QU",
+			"12": "XwzwK6vJhGE"
+		},
+		"2": {
+			"1": "35bHhuhCTVQ",
+			"2": "U4jnueS23aQ",
+			"3": "iVlXUv89KhI"
+		}
+	}
+}

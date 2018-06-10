@@ -1,0 +1,56 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Heureka_Logo.jpg",
+	"Titre_Emission": "Heur?eka",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Gilles Mitteau",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Gilles_Mitteau.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 25 min",
+	"Nombre_Saison": "3",
+	"Nombre_Video": "29",
+	"Categorie_Emission": "Economie",
+	"Type_Emission": "Face caméra",
+	"Accessibilite" : "4",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Heureka.jpg",
+	"Saisons": {
+		"1": {
+			"1": "4Lc4hvhqps4",
+			"2": "bHwWLXsi-o8",
+			"3": "RSMyjLAthBE",
+			"4": "BlVxvGmDWeg",
+			"5": "lRT0JvYf6Xo",
+			"6": "N0OlW7G0Yqk",
+			"7": "lZ6CmwquKKQ",
+			"8": "NKYBz-E_g9U",
+			"9": "QyflvU7snnA",
+			"10": "O-SH-QPAicY",
+			"11": "KSQpp3CNeZQ",
+			"12": "GplUE1NGqgA"
+		},
+		"2": {
+			"1": "BuEyrskPUws",
+			"2": "h4XZpkrpIbs",
+			"3": "nN0dAUdL0I4",
+			"4": "n7jn-l2SbVk",
+			"5": "frepwToPaso",
+			"6": "NhH010TlitE",
+			"7": "ZbFQ4knxFhE",
+			"8": "WUtjf5dXuig",
+			"9": "t-6MyCpL9yU",
+			"10": "z0KK0uaXfLE",
+			"11": "iFr2CfilL8E",
+			"12": "B3d7qVWnb4I"
+		},
+		"3": {
+			"1": "8EEBquhKgxc",
+			"2": "7kYXEBHePJc",
+			"3": "WYLXFeCL3HQ",
+			"4": "5uBXviM1PcQ",
+			"5": "a8LXzgpjsew"
+		}
+	}	
+}

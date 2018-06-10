@@ -1,0 +1,54 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Les_Revues_du_Monde_Logo.jpg",
+	"Titre_Emission": "Les Revues du Monde",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Charlie Danger",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Charlie_Danger.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 10 min",
+	"Nombre_Saison": "3",
+	"Nombre_Video": "27",
+	"Categorie_Emission": "Culture",
+	"Type_Emission": "Infographiue",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Les_Revues_du_Monde.jpg",
+	"Saisons": {
+		"1": {
+			"1": "X0UF4IWZuk4",
+			"2": "k1D8J1YH4xY",
+			"3": "ZqDRFE0ziLE",
+			"4": "jjMH2Skw390",
+			"5": "WivgM01sWBc",
+			"6": "8LK8z6vsFfU",
+			"7": "eVqcUJF1EnM",
+			"8": "qAJ5RoskVB8",
+			"9": "PTz150Tlmqc",
+			"10": "J11rH3cLMi8",
+			"11": "NvXh0pBaRuk",
+			"12": "W3_DwJe2DMk"
+		},
+		"2": {
+			"1": "MeYNcyqP_KE",
+			"2": "6MBkkmgb74s",
+			"3": "oyNVRRLWA_Y",
+			"4": "m2iELDyFEbw",
+			"5": "ltnm9qa_3rg",
+			"6": "pwFLC4XLWQ4",
+			"7": "55u-vBtTNIM",
+			"8": "KSUKjUgkas4",
+			"9": "3yWuX8spp_E",
+			"10": "bRoO3m2CvD4",
+			"11": "sM3WMzTISdc",
+			"12": "ccO0SACODsk"
+		},
+		"3": {
+			"1": "3_8Qgb4fgaQ",
+			"2": "VCGxayEPjXg",
+			"3": "uFqzSmTdG9k"
+		}
+	}
+}

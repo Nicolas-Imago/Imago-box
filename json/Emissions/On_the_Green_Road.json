@@ -1,0 +1,25 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/On_the_Green_Road_Logo.jpg",
+	"Titre_Emission": "On The Green Road",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Siméon Baldit de Barral",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Simeon_Baldit_de_Barral.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 10 min",
+	"Nombre_Saison": "1",
+	"Nombre_Video": "2",
+	"Categorie_Emission": "Culture",
+	"Type_Emission": "Reportage",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/On_the_Green_Road.jpg",
+	"Saisons": {
+		"1": {
+			"1": "GpxFbMbIgX4", 
+			"2": "lj5B-N4TeUk"
+		}
+	}
+}

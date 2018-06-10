@@ -1,0 +1,100 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/La_Minute_Necessaire_de_Bridget_Kyoto_Logo.jpg",
+	"Titre_Emission": "La minute nécessaire",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Laure Noualhat",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Laure_Noualhat.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 2 min",
+	"Nombre_Saison": "6",
+	"Nombre_Video": "67",
+	"Categorie_Emission": "Ecologie",
+	"Type_Emission": "Comédie",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/La_Minute_Necessaire_de_Bridget_Kyoto.jpg",
+	"Saisons": {
+		"1": {
+			"1": "RFLSz2G_naA",
+			"2": "RrpYUI42YLw",
+			"3": "fsWu_YXK224",
+			"4": "Bc8NAlxBLT8",
+			"5": "_DW3sd8XPtg",
+			"6": "8kso7epDXN8",
+			"7": "QDyy7WOcYG4",
+			"8": "lbxexMb06iA",
+			"9": "iNT7x6sAG_I",
+			"10": "551xHTqdfwA",
+			"11": "ujmfkD7G9Tw",
+			"12": "9nLOGhv39Og"
+		},
+		"2": {
+			"1": "_wIEw1U9ops",
+			"2": "O5WB_DOwZ9w",
+			"3": "IFV4mDDl84g",
+			"4": "afLoysksZ5s",
+			"5": "QBs3JW_yFfc",
+			"6": "-2YNmzAmaI0",
+			"7": "mnn6YjIBQUs",
+			"8": "zp8EN4ZmTAs",
+			"9": "wyAoqb0tvpI",
+			"10": "Dzhui3oYM4I",
+			"11": "2QzGSuCAsQs",
+			"12": "1YYXSJSc-UE"
+		},
+		"3": {
+			"1": "loKOK6EVBAo",
+			"2": "_X0SQOwOdI8",
+			"3": "Gxaj2bnX0XU",
+			"4": "3r7tJZoKAkA",
+			"5": "fRhDiIoE-1I",
+			"6": "4YAqNyPRwXg",
+			"7": "lx0_g3U5GpM",
+			"8": "BVSXXsSj7AE",
+			"9": "pR_K1Dqikfg",
+			"10": "80Z5UTs1jQM",
+			"11": "TS3-oGgP99Y",
+			"12": "WYqbHXj0Wh4"
+		},
+		"4": {
+			"1": "MzbFfajhdaE",
+			"2": "XFBKrAAhc2U",
+			"3": "oZ6S5LFh46s",
+			"4": "uswUxpiEkcM",
+			"5": "q6NSFZZC0Lc",
+			"6": "ZbLlqUMYOUI",
+			"7": "68kKCjRKRsU",
+			"8": "jTZNPrKobCk",
+			"9": "Y56CfrXGlbE",
+			"10": "B1oJ61AiM9w",
+			"11": "Mf4pNZDlTjg",
+			"12": "tyOmTiFDkRU"
+		},
+		"5": {
+			"1": "HAkJsvlSA98",
+			"2": "j9fH2MdmN_U",
+			"3": "RZ1ttG4E0E8",
+			"4": "dya61HMrdU4",
+			"5": "QJ2ar8WSJsk",
+			"6": "zy-YGekT4XE",
+			"7": "ZwIUF2lcSUw",
+			"8": "cGTB_cV4lEI",
+			"9": "oEA-gnxTcr0",
+			"10": "9FRT_AX3cTU",
+			"11": "jv1K-xuCb6k",
+			"12": "eqCJ8D2adMk"
+		},
+		"6": {
+			"1": "AnQwIEqr9FY",
+			"2": "BX10_l-q034",
+			"3": "SABMjpS8YKE",
+			"4": "p4X-4q-jt9U",
+			"5": "n7knJ-kr1S0",
+			"6": "9jMrqI5u0rA",
+			"7": "6Hmnuf5iZ44"
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Jardiniers_Levez_Vous_Logo.jpg",
+	"Titre_Emission": "Jardiniers levez-vous",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Jonathan & Alexandre",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Jon_Attias.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 5 min",
+	"Nombre_Saison": "1",
+	"Nombre_Video": "7",
+	"Categorie_Emission": "Ecologie",
+	"Type_Emission": "Reportages",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Jardiniers_Levez_Vous.jpg",
+	"Saisons": {
+		"1": {
+			"1": "Ixdd_x3wBTU",
+			"2": "rxhWwYxI4Rw",
+			"3": "XOyJql04sYc",
+			"4": "MmoH0dIY7ng",
+			"5": "WoZEspMQe5o",
+			"6": "n-CJIjrWbOo",
+			"7": "vZmRFD5xFxk"
+		}
+	}
+}

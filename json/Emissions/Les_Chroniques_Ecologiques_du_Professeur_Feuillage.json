@@ -1,0 +1,48 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Les_Chroniques_Ecologiques_du_Professeur_Feuillage_Logo.jpg",
+	"Titre_Emission": "Professeur Feuillage",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Mathieu & Lénie",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Mathieu_Dumery.png"
+		},
+		"2": {
+			"Nom_Auteur": "Lénie Chérino",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Lenie_Cherino.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 12 min",
+	"Nombre_Saison": "2",
+	"Nombre_Video": "19",
+	"Categorie_Emission": "Ecologie",
+	"Type_Emission": "Comédie",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Les_Chroniques_Ecologiques_du_Professeur_Feuillage.jpg",
+	"Saisons": {
+		"1": {
+			"1": "1t4t5akJXLc",
+			"2": "w1OWoPG2kh0",
+			"3": "GZDVwsaVXM0",
+			"4": "tpgeKzxSNWE",
+			"5": "-1kRKk02HWo",
+			"6": "8aHGzLhwysI",
+			"7": "tsTM7dadjOM",
+			"8": "pOpTwfzpKHo",
+			"9": "aiZPu-X010A",
+			"10": "AjvCdpOZKH4",
+			"11": "R8qlhSIWVMY",
+			"12": "mKFtXy_oXJs"
+		},
+		"2": {
+			"1": "_CUHEoSpnqM",
+			"2": "uPdICF-QCW8",
+			"3": "_fY9PQX3rWg",
+			"4": "dUEYMSWfM2w",
+			"5": "IjFOpN0Xfjw",
+			"6": "TaqiQHDhRkY",
+			"7": "itobpoGsZuQ"
+		}
+	}
+}

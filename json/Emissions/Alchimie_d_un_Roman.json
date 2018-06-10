@@ -1,0 +1,87 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Alchimie_d_un_Roman_Logo.jpg",
+	"Titre_Emission": "Alchimie d'un Roman",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Jean-Philippe Depotte",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Jean_Philippe_Depotte.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 12 min",
+	"Nombre_Saison": "5",
+	"Nombre_Video": "56",
+	"Categorie_Emission": "Culture",
+	"Type_Emission": "Infographie",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Alchimie_d_un_Roman.jpg",
+	"Saisons": {
+		"1": {
+			"1": "HfGrtc0l034",
+			"2": "aMNn5cyJZC8",
+			"3": "u8I-UX0vZpo",
+			"4": "vKdq5xuy98E",
+			"5": "JAsKmfsWYTU",
+			"6": "stnx-AO7Mns",
+			"7": "Ky10izmLwJI",
+			"8": "XAh_WCzvCDM",
+			"9": "WjizEXfqeHk",
+			"10": "-xCjbiLThkg",
+			"11": "HLrJc7RNXTE",
+			"12": "LTlL5YXIY1M"
+		},
+		"2": {
+			"1": "BCGDjEU1DsA",
+			"2": "8ZaivznqW_g",
+			"3": "jNkoRmCP0VU",
+			"4": "AZg0S2nBgSg",
+			"5": "6FPkSzCWaD4",
+			"6": "wvm8MAIYraY",
+			"7": "XPXQ6wFbSK8",
+			"8": "wEPigxl8e8Y",
+			"9": "dDSADNuSox4",
+			"10": "hVOmfzNPX-I",
+			"11": "5x2EipLmLnY",
+			"12": "IVvVIJnipkI"
+		},
+		"3": {
+			"1": "AwppG_O2ZFM",
+			"2": "CWrQhBHpqUc",
+			"3": "PB7sCe-7bQg",
+			"4": "rrY4oiWsAh4",
+			"5": "emQYhqfLXKk",
+			"6": "tw-SPL4MSR0",
+			"7": "eXVL_gAUfXY",
+			"8": "9hMyZ4q-s6U",
+			"9": "MDsM2cGXHGc",
+			"10": "ANYTyaLmAJ8",
+			"11": "Zdr_GnXH5CY",
+			"12": "wv2frA_n8RY"
+		},
+		"4": {
+			"1": "_szQ9pfhwS8",
+			"2": "tobrGRJMEgA",
+			"3": "7-tJvkOKRXI",
+			"4": "GgFuA1VqXX8",
+			"5": "9Yqfq-WD3_w",
+			"6": "nm3fkDrUElU",
+			"7": "cQSCDkj3m_I",
+			"8": "7-bY22F9Hqg",
+			"9": "pk4YS3uecTg",
+			"10": "IEJothDyZKw",
+			"11": "nFQXic3T3aE",
+			"12": "t-u3o6vIKr0"
+		},
+		"5": {
+			"1": "cebohAK_zmw",
+			"2": "iIQQ0M6R4PI",
+			"3": "rW9C3QJklfs",
+			"4": "qu5uWf3NpsY",
+			"5": "fT_wXx0SIys",
+			"6": "bK05hu6aWnw",
+			"7": "Yb1ndBcv2ew",
+			"8": "s9EDoLAfxlI"
+		}
+	}
+}

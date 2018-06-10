@@ -1,0 +1,40 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Le_Vlog_des_Gens_Qui_se_Bougent_Logo.jpg",
+	"Titre_Emission": "Les Gens Qui s'Bougent",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Vincent, Juliette & Victor",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Vincent_Verzat.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 5 min",
+	"Nombre_Saison": "2",
+	"Nombre_Video": "15",
+	"Categorie_Emission": "Alternatives",
+	"Type_Emission": "Reportages",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Le_Vlog_des_Gens_Qui_se_Bougent.jpg",
+	"Saisons": {
+		"1": {
+			"1": "uuQ9Fh8AMtQ",
+			"2": "qYkxD31h4GA",
+			"3": "mDFoV1EdxNw",
+			"4": "m9ajEFwuB_c",
+			"5": "SWLlqWsqIk4",
+			"6": "OQ2Trz-jT0Y",
+			"7": "JcrizblseeQ",
+			"8": "l8zqPUP4j9Q",
+			"9": "IgpisB73QHk",
+			"10": "nnIo-aFOzyI",
+			"11": "ZuEoGPs7AVI",
+			"12": "8A7N3u0wzn0"
+		},
+		"2": {
+			"1": "9poisfgjNvA",
+			"2": "OaJiFoTjgMg",
+			"3": "TRvwZTA1LaI"
+		}
+	}
+}

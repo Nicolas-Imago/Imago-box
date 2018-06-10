@@ -1,0 +1,118 @@
+{
+	"Webseries": {
+		"Culture": {
+			"Histoire": "",
+			"Geographie": "",
+			"Art": "",
+			"Litterature": "",
+			"Sciences": ""
+		},
+		"Conscience": {
+			"ma_Revolution_Interieur": "",
+			"J'ai_Teste_pour_Vous": "",
+			"Human_Histoire": "",
+			"Human_Portrait": "",
+			"Nothing_to_Add": "",
+			"Nus_et_Culottes": ""
+		},
+		"Alternatives": {
+			"Le_Blog_des_Gens_Qui_se_Bougent": "",
+			"Les_Gens_Qui_Sement": "",
+			"Democratie_et_Theorie_des_Jeux": ""
+		},
+		"Medias": {
+			"La_Tronche_en_Biais": "",
+			"Les_pastilles_de_Mendax": "",
+			"Point_dans_la_Tronche": "",
+			"Langue_de_Bois": "",
+			"Topoi": "",
+			"Hygiene_Mentale": "",
+			"Education_aux_Medias": "",
+			"Cretin_de_Cerveau": ""
+		},
+		"Ecologie": {
+			"Les_Chroniques_Ecologiques_du_Professeur_Feuillage":"",
+			"La_Minute_Necessaire_de_Bridget_Kyoto": "",
+			"La_Pastille_Verte_de_Bridget_Kyoto": "",
+			"Jardiniers_Levez-vous": "",
+			"NEXT": ""
+		},
+		"Economie": {
+			"Eureka": "",
+			"Mise_au_Point": "",
+			"Les_Econoclastes": ""
+		},
+		"Societe": {
+			"La_Barbe": "",
+			"Data_Gueule": "",
+			"Thinkerview": "",
+			"La_Bajon": "",
+			"Le_fil_d'Actu": "",
+			"Cash_Investigation": "",
+			"Et_Tout_le_Monde_s'en_Fout": ""
+		}
+	},
+	"Documentary": {
+		"Culture": "",
+		"Conscience": "",
+		"Alternatives": "",
+		"Medias": "",
+		"Ecologie": "",
+		"Economie": "",
+		"Societe": ""
+	},
+	"Humour": {
+		"Culture": "",
+		"Conscience": "",
+		"Alternatives": "",
+		"Medias": "",
+		"Ecologie": "",
+		"Economie": "",
+		"Societe": ""
+	},
+	"Kids": {
+		"Culture": "",
+		"Conscience": "",
+		"Alternatives": "",
+		"Medias": "",
+		"Ecologie": "",
+		"Economie": "",
+		"Societe": ""
+	},
+	"Music": {
+		"Culture": "",
+		"Conscience": "",
+		"Alternatives": "",
+		"Medias": "",
+		"Ecologie": "",
+		"Economie": "",
+		"Societe": ""
+	},
+	"MOOC": {
+		"Culture": "",
+		"Conscience": "",
+		"Alternatives": "",
+		"Medias": "",
+		"Ecologie": "",
+		"Economie": "",
+		"Societe": ""
+	},
+	"Conférences": {
+		"Culture": "",
+		"Conscience": "",
+		"Alternatives": "",
+		"Medias": "",
+		"Ecologie": "",
+		"Economie": "",
+		"Societe": ""
+	},
+	"Podcasts": {
+		"Culture": "",
+		"Conscience": "",
+		"Alternatives": "",
+		"Medias": "",
+		"Ecologie": "",
+		"Economie": "",
+		"Societe": ""
+	}
+}

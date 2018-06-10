@@ -1,0 +1,28 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Next_Logo.jpg",
+	"Titre_Emission": "NEXT",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Clément Montfort",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Clement_Montfort.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 15 min",
+	"Nombre_Saison": "1",
+	"Nombre_Video": "5",
+	"Categorie_Emission": "Ecologie",
+	"Type_Emission": "Reportage",
+	"Accessibilite" : "3",
+	"Engagement" : "1",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Next.jpg",
+	"Saisons": {
+		"1": {
+			"1": "ImGLPH3eIdE",
+			"2": "0JpnKMVlvLM",
+			"3": "fFohgPFtOdE",
+			"4": "YIEWe8ytCww",
+			"5": "3NCrj_fa2hU"
+		}
+	}
+}

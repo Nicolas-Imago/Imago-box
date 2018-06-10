@@ -1,0 +1,30 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Cretin_de_Cerveau_Logo.jpg",
+	"Titre_Emission": "Crétin de cerveau",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "David Louapre",
+			"Image_Auteur": "Imago/img/Images_Auteurs/David_Louapre.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 5 min",
+	"Nombre_Saison": "1",
+	"Nombre_Video": "7",
+	"Categorie_Emission": "Société",
+	"Type_Emission": "Comédie",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Cretin_de_Cerveau.jpg",
+	"Saisons": {
+		"1": {
+			"1": "xJO5GstqTSY",
+			"2": "fxTxU0Echq8",
+			"3": "GCmfXMMhRzk",
+			"4": "9AJHdGcyqh8",
+			"5": "MCg2lw4Nxno",
+			"6": "YhEFWFs6BJs",
+			"7": "850Zr6dzxYU"
+		}
+	}
+}

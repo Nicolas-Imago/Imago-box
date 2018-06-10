@@ -1,0 +1,109 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Data_Gueule_Logo.jpg",
+	"Titre_Emission": "Data Gueule",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Henri, Julien & Sylvain",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Henri_Poulain.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 5 min",
+	"Nombre_Saison": "7",
+	"Nombre_Video": "74",
+	"Categorie_Emission": "Société",
+	"Type_Emission": "Infographie",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Data_Gueule.jpg",
+	"Saisons": {
+		"1": {
+			"1": "GaEool-xoic",
+			"2": "30nsePK6UTI",
+			"3": "9PHxPVumz_4",
+			"4": "sypHVA1Du7Q",
+			"5": "xhY5UuBvIo8",
+			"6": "8gJn4EhlsY0",
+			"7": "bTEYx4FZPFA",
+			"8": "ftwXvWShZMg",
+			"9": "XdRhS0MacqE",
+			"10": "wbfdtW5THq8",
+			"11": "ohVvJGCwYKM",
+			"12": "b_xF9Ak7TMs"
+		},
+		"2": {
+			"1": "LpDA_XBwL8A",
+			"2": "zHK1HqW-FQ0",
+			"3": "5otaBKsz7k4",
+			"4": "kk0TIhy2D3g",
+			"5": "tYk_elaPDIY",
+			"6": "dzCmhUAzseI",
+			"7": "eJwLU0yWO00",
+			"8": "4dVs95LwVVg",
+			"9": "mNlA2mjmWAs",
+			"10": "Z34mzx9HEP0",
+			"11": "hZnq3xg-PRM",
+			"12": "1F6JGk51_l0"
+		},
+		"3": {
+			"1": "va45xFGvqrg",
+			"2": "6HJFK83RaXE",
+			"3": "_-bSD3AHgsQ",
+			"4": "wMO37vBe3Tg",
+			"5": "9sz0YgriE7Q",
+			"6": "dSdtuW5ko2I",
+			"7": "S9a13J6fV-Y",
+			"8": "PKeUEKNnBQA",
+			"9": "UBVwequu8xM",
+			"10": "zRyAEiPIy94",
+			"11": "kZvF-5DsxcE",
+			"12": "44dyEzjzJ8Y"
+		},
+		"4": {
+			"1": "aOPW6wzs8Ks",
+			"2": "tgruxcq23FA",
+			"3": "F-Wy9DY6WE8",
+			"4": "wShQYeH9qJk",
+			"5": "dAMXH2_dcvs",
+			"6": "qrgtbgjMfu0",
+			"7": "neqgJGz08Fw",
+			"8": "aUmJ35kMq1Q",
+			"9": "woqwcjmrMHw",
+			"10": "o9H9D0NUYqo",
+			"11": "xA99It3-0kE",
+			"12": "OQBcrKqyHJI"
+		},
+		"5": {
+			"1": "yKpPXGb1-w0",
+			"2": "Z9uDmY-aj64",
+			"3": "9CD-q8lEFwU",
+			"4": "KiGiupc3VwA",
+			"5": "9LC0IyZg2nk",
+			"6": "4-V4SFp5S-k",
+			"7": "KriTQ0aTrtw",
+			"8": "lOdGapLTQ6k",
+			"9": "VtssDE7sfWI",
+			"10": "O2Vq0SVSdXg",
+			"11": "mQPMDc_RCaE",
+			"12": "YYgy2lEbFmc"
+		},
+		"6": {
+			"1": "AtI_CQuBxlI",
+			"2": "4n2tWyIuA8g",
+			"3": "WnxqoP-c0ZE",
+			"4": "OHg4YgccmPg",
+			"5": "E9-mqOil5dY",
+			"6": "rnu9e1ft5qw",
+			"7": "wH9dMNWjL2s",
+			"8": "xO_dH2oANWY",
+			"9": "3rtEMp8_7z4",
+			"10": "OcNftI9gKHI",
+			"11": "eAQAN2assMw",
+			"12": "Ih5HnS395Hs"
+		},
+		"7": {
+			"1": "AtI_CQuBxlI",
+			"2": "4n2tWyIuA8g"
+		}
+	}
+}

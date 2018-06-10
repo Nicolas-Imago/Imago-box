@@ -1,0 +1,30 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/North_Park_Logo.jpg",
+	"Titre_Emission": "North Park",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Cause Toujours",
+			"Image_Auteur": ""
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 5 min",
+	"Nombre_Saison": "1",
+	"Nombre_Video": "7",
+	"Categorie_Emission": "Humour",
+	"Type_Emission": "Dessin animé",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/North_Park.jpg",
+	"Saisons": {
+		"1": {
+			"1": "y7q4NskIMCc",
+			"2": "I-F174yumD4",
+			"3": "ojzOZRVr8Wc",
+			"4": "f8aib_e1pgA",
+			"5": "IEfPxFUIwBc",
+			"6": "dp5sOmcfBSE",
+			"7": "XzTEbXEBmug"
+		}
+	}
+}

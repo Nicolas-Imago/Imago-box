@@ -1,0 +1,28 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Docteur_Ripeur_Logo.jpg",
+	"Titre_Emission": "Docteur Ripeur",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Etienne Rouge",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Etienne_Rouge.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 10 min",
+	"Nombre_Saison": "1",
+	"Nombre_Video": "5",
+	"Categorie_Emission": "Médias",
+	"Type_Emission": "Animation",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Docteur_Ripeur.jpg",
+	"Saisons": {
+		"1": {
+			"1": "pLqZ7tIMVSk",
+			"2": "pM50tycTqeY",
+			"3": "EJSIexxIBWU", 
+			"4": "Fpyr95ad_Wk",
+			"5": "35dZ-2nQEX4"
+		}
+	}
+}

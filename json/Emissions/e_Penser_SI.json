@@ -1,0 +1,30 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/e_Penser_SI_Logo.jpg",
+	"Titre_Emission": "Système d'Unités",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Bruce Benamran",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Bruce_Benamran.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 5 min",
+	"Nombre_Saison": "1",
+	"Nombre_Video": "7",
+	"Categorie_Emission": "Culture",
+	"Type_Emission": "face caméra",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/e_Penser.jpg",
+	"Saisons": {
+		"1": {
+			"1": "GEKU3x8uB6o",
+			"2": "Y2kz-JdvIh0",
+			"3": "q1r9iSm07OU",
+			"4": "OqcqsUaEqUk",
+			"5": "P8zXHQnuD6k",
+			"6": "hLavUzFWITY",
+			"7": "8MaCc_fojsw"
+		}
+	}
+}

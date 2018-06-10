@@ -1,0 +1,80 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Le_Chemin_de_la_Nature_Logo.jpg",
+	"Titre_Emission": "Le Chemin de la Nature",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Christophe de Hody",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Christophe_de_Hody.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 5 min",
+	"Nombre_Saison": "5",
+	"Nombre_Video": "49",
+	"Categorie_Emission": "Ecologie",
+	"Type_Emission": "Reportages",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Le_Chemin_de_la_Nature.jpg",
+	"Saisons": {
+		"1": {
+			"1": "Yn2jmwP3jvw",
+			"2": "ODp_3x_gRP4",
+			"3": "a03tGPekjmc",
+			"4": "EZS2ja_jhQU",
+			"5": "awQKzcQdvig",
+			"6": "JuBP49o_iaE",
+			"7": "2kQ8J2HPIn4",
+			"8": "5DyBgIgneFY",
+			"9": "OIOEcrCsf74",
+			"10": "iRBeLVDmatw",
+			"11": "NnGIGefiizU",
+			"12": "fjGYrEm9Kzg"
+		},
+		"2": {
+			"1": "wBchQSJ2JXg",
+			"2": "a792xHSEoqU",
+			"3": "VEJvF5w7xB4",
+			"4": "uQiY5Llulag",
+			"5": "shgtw5b-QwY",
+			"6": "mrYuKVPFxJU",
+			"7": "npiVfwQMnhI",
+			"8": "JkVfERZAVf0",
+			"9": "BxVjoMmVyRs",
+			"10": "ETxBRJ9qgDY",
+			"11": "gEsRnVMwp-A",
+			"12": "VqjWXIWr4LE"
+		},
+		"3": {
+			"1": "mTw3O9hKOeU",
+			"2": "VpVYOA4li04",
+			"3": "xy4CWKc8Huc",
+			"4": "Yk9PGNGASFE",
+			"5": "p6bw_tIS3es",
+			"6": "pmiRJbAYgWA",
+			"7": "gjK3JFWcQXA",
+			"8": "m9WpR4jM-98",
+			"9": "MoDfAyzxOM4",
+			"10": "GXBTZEZKt2o",
+			"11": "KT6bDCEM-oM",
+			"12": "DluctBDUyXE"
+		},
+		"4": {
+			"1": "C6ooobqwYTs",
+			"2": "IduLioLRAjc",
+			"3": "S7NwvgoENfg",
+			"4": "zDV3PBvSl_E",
+			"5": "if-_UyhQdJA",
+			"6": "HKp49tIKC84",
+			"7": "6rmddgc6fFE",
+			"8": "srb128VHgMg",
+			"9": "BSdBPWoHHwQ",
+			"10": "9qKr-zwUmJo",
+			"11": "YncstFwvBzU",
+			"12": "OjkXGt78JqI"
+		},
+		"5": {
+			"1": "sfwpf6SAwvk"
+		}
+	}
+}

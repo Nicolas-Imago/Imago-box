@@ -1,0 +1,33 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Passer_a_l_Action_Logo.jpg",
+	"Titre_Emission": "Passer à l'action",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Hélène de Vestele",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Helene_de_Vestele.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 5 min",
+	"Nombre_Saison": "1",
+	"Nombre_Video": "10",
+	"Categorie_Emission": "Alternatives",
+	"Type_Emission": "face caméra",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Passer_a_l_Action.jpg",
+	"Saisons": {
+		"1": {
+			"1": "YNBc3c6UEVo",
+			"2": "SJyZkcWwAUk",
+			"3": "qVaGY7YIm5E",
+			"4": "2qXOTVT1bG4",
+			"5": "gPXBW7CjkeI",
+			"6": "JTk4FtKVFEQ",
+			"7": "Rm9fXwPz62U",
+			"8": "M-7EHRFwsJU",
+			"9": "_iSeCG1f9p8",
+			"10": "ybvXx_Ae5PQ"
+		}
+	}
+}

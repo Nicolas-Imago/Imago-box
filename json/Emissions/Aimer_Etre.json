@@ -1,0 +1,26 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Aimer_Etre_Logo.jpg",
+	"Titre_Emission": "Aimer Etre",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Kalune",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Kalune.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 5 min",
+	"Nombre_Saison": "1",
+	"Nombre_Video": "3",
+	"Categorie_Emission": "Musique",
+	"Type_Emission": "Clip",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Aimer_Etre.jpg",
+	"Saisons": {
+		"1": {
+			"1": "VaLLbhdgqxo",
+			"2": "CIg3_kdcbgY",
+			"3": "kEhCoAL2VSA"
+		}
+	}
+}

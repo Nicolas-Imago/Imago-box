@@ -1,0 +1,69 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/La_Barbe_Logo.jpg",
+	"Titre_Emission": "La Barbe",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Nicolas Meyrieux",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Nicolas_Meyrieux.png"
+		}
+	},
+	"Description_Emission": "Nicolas Meyrieux s’attache à mettre le doigt là où ça fait mal...",
+	"Duree_Emission": "~ 5 min",
+	"Nombre_Saison": "4",
+	"Nombre_Video": "40",
+	"Categorie_Emission": "Société",
+	"Type_Emission": "Comédie",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/La_Barbe.jpg",
+	"Saisons": {
+		"1": {
+			"1": "7YDx3g4fDdY",
+			"2": "j9g9OFbJ0bw",
+			"3": "l60EWA1UgOY",
+			"4": "uUaCUreN_3o",
+			"5": "iYscril_LzM",
+			"6": "daGxdHFH6CU",
+			"7": "yhRAv56vV58",
+			"8": "qYLfIDXmAwc",
+			"9": "kJ9J28THdOg",
+			"10": "U84v8TxZCa0",
+			"11": "P29kDnbBg-I",
+			"12": "awips50lFFI"
+		},
+		"2": {
+			"1": "Q-IbFpBa65E",
+			"2": "E-8OJF67rCA",
+			"3": "rd14kCgPlNc",
+			"4": "Eo8or9HOY20",
+			"5": "GR5rTfDOxas",
+			"6": "Xg0Pef60S60",
+			"7": "FJyfrYBHT8Y",
+			"8": "2tQXVfwx19E",
+			"9": "Rs5D3iIiAJY",
+			"10": "WZTNFeqy4d4",
+			"11": "v47Ya5HJMVk",
+			"12": "RwEovLsGzcE"
+		},
+		"3": {
+			"1": "2M9oJMssIxI",
+			"2": "2F473uqQ6NU",
+			"3": "__q_55dgPdc",
+			"4": "_w9pzGmNRno",
+			"5": "M60zvmGbK7Y",
+			"6": "6Zz7pzKELHY",
+			"7": "y6n0Kb6cHKM",
+			"8": "y3A6wG7z8RU",
+			"9": "E4w30n88GCM",
+			"10": "yr2l_NYIl1U",
+			"11": "so9waaFrjtE",
+			"12": "O3AqwXwSUqc"
+		},
+		"4": {
+			"1": "727jxIHXh44",
+			"2": "56rnPdwLPG8",
+			"3": "I6aO0A4yemc",
+			"4": "0dK1yBILG58"
+		}
+	}
+}

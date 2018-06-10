@@ -1,0 +1,27 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Hygiene_Mentale_Logo.jpg",
+	"Titre_Emission": "Educations aux Médias",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Christophe Michel",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Christophe_Michel.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 15 min",
+	"Nombre_Saison": "1",
+	"Nombre_Video": "4",
+	"Categorie_Emission": "Médias",
+	"Type_Emission": "Infographie",
+	"Accessibilite" : "1",
+	"Engagement" : "4",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Education_aux_Medias.jpg",
+	"Saisons": {
+		"1": {
+			"1": "__DVwG9oiuU",
+			"2": "miJ2ObMs-I4",
+			"3": "0ig87rUmwc8",
+			"4": "8xOn_ChBHCw"
+		}
+	}
+}

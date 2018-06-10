@@ -1,0 +1,30 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Topoi_Logo.jpg",
+	"Titre_Emission": "Topoï",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Fabrice Barnathan",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Fabrice_Barnathan.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 5 min",
+	"Nombre_Saison": "1",	
+	"Nombre_Video": "7",
+	"Categorie_Emission": "Médias",
+	"Type_Emission": "Comédie",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Topoi.jpg",
+	"Saisons": {
+		"1": {
+			"1": "9USELuElwJg",
+			"2": "gRdSckT1krI",
+			"3": "b5cQbe913zc",
+			"4": "3IOM8Oo4sQA",
+			"5": "u60s1Slp3lE",
+			"6": "RlZ3yHA_API",
+			"7": "hFtJHymkqQk"
+		}
+	}
+}

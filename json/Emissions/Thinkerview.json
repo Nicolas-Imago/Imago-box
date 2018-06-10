@@ -1,0 +1,75 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Thinkerview_Logo.jpg",
+	"Titre_Emission": "Thinkerview",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Sky",
+			"Image_Auteur": ""
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 60 min",
+	"Nombre_Saison": "4",	
+	"Nombre_Video": "46",
+	"Categorie_Emission": "Société",
+	"Type_Emission": "Interview",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Thinkerview.jpg",
+	"Saisons": {
+		"1": {
+			"1": "nb-GvtlETj4",
+			"2": "d22EkRIxowI",
+			"3": "mp3VZ-k2mhA",
+			"4": "fzF7mPpsFQI",
+			"5": "fmgxfvbAMK8",
+			"6": "TR9IG4Ysuv0",
+			"7": "iXnUIx24jng",
+			"8": "db26_acAeF4",
+			"9": "tyy3v-jpe34",
+			"10": "PwHlxMfCnKg",
+			"11": "_jSPkz_0UZw",
+			"12": "laDOwa1gGF0"
+		},
+		"2": {
+			"1": "jiMv-YIifTI",
+			"2": "uRawWLYX8K0",
+			"3": "krKi0RNMxgU",
+			"4": "exhl1rpAUiA",
+			"5": "Ed9GTZSL3zU",
+			"6": "yh26_9b7IJI",
+			"7": "N845HBEzzGY",
+			"8": "AQN8AYVzXqs",
+			"9": "-odoA0BauaE",
+			"10": "507HStKtw-I",
+			"11": "fr9xtFz78dg",
+			"12": "CQ-nzRlDnns"
+		},
+		"3": {
+			"1": "0BV-6_kXYSg",
+			"2": "uBaAvHxdShw",
+			"3": "SH69-qP_saE",
+			"4": "sIaLxUiR9BQ",
+			"5": "VBsLSfPs2PE",
+			"6": "9eBBIYWeUxs",
+			"7": "TeOlL_hVF6g",
+			"8": "zyB1eQFskf4",
+			"9": "DROqR_7EKvs",
+			"10": "W6xoUHRHkFc",
+			"11": "nlZsdVgf8Ww",
+			"12": "CwXudpMdbuo"
+		},
+		"4": {
+			"1": "l9VGz9Lrt70",
+			"2": "TxHqU0ICDr4",
+			"3": "QS951xiGGvI",
+			"4": "JDRzEdRQF5s",
+			"5": "8xL6XxKTieA",
+			"6": "qWOIYGIAbFw",
+			"7": "LMRdn_MQWXM",
+			"8": "3HgwtHenFWs",
+			"9": "Fp6aJZQldFs",
+			"10": "5SkHrhxaFxE"
+		}
+	}
+}

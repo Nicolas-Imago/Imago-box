@@ -1,0 +1,32 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Mise_au_Point_Logo.jpg",
+	"Titre_Emission": "Mise au Point",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Rodolphe Meyer",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Rodolphe_Meyer.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 5 min",
+	"Nombre_Saison": "1",
+	"Nombre_Video": "9",
+	"Categorie_Emission": "Economie",
+	"Type_Emission": "Face caméra",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Mise_au_Point.jpg",
+	"Saisons": {
+		"1": {
+			"1": "kEULaZcpcb4",
+			"2": "L18njx95jVs",
+			"3": "aF43TKqGG9E",
+			"4": "4dam3bmUFo0",
+			"5": "PkR4YXgOqEk",
+			"6": "Q_cZ1MXWpwg",
+			"7": "BW_fMjYirV0",
+			"8": "L1ramBmHth8",
+			"9": "riqEQbivhlg"
+		}
+	}
+}

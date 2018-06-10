@@ -1,0 +1,114 @@
+{
+	"0": {
+		"Name": "Imago",
+		"Icon": "/img/Logo/Imago_Native",
+		"Video" : {
+			"Now" : {
+				"Video_id" : "mDFoV1EdxNw",
+				"Name" : "Partager c'est Sympa"
+			},
+			"Next" : {
+				"Video_id" : "pLqZ7tIMVSk",
+				"Name" : "Docteur Ripeur"
+			}
+		}
+	},
+	"1": {
+		"Name": "Imago Culture",
+		"Icon": "/img/Logo/Imago_Culture",
+		"Video" : {
+			"Now" : {
+				"Video_id" : "MSs1w_0rHj8",
+				"Name" : "Fokus Histoire"
+			},
+			"Next" : {
+				"Video_id" : "HfGrtc0l034",
+				"Name" : "L'achimie d'un Roman"
+			}
+		}
+	},
+	"2": {
+		"Name": "Imago Conscience",
+		"Icon": "/img/Logo/Imago_Conscience",
+		"Video" : {
+			"Now" : {
+				"Video_id" : "ZM2_U_oaxBw",
+				"Name" : "Human - Portraits"
+			},
+			"Next" : {
+				"Video_id" : "oIjLtqK1nrg",
+				"Name" : "Human - Histoires"
+			}
+		}
+	},
+	"3": {
+		"Name": "Imago Alternatives",
+		"Icon": "/img/Logo/Imago_Alternatives",
+		"Video" : {
+			"Now" : {
+				"Video_id" : "YNBc3c6UEVo",
+				"Name" : "Edeni - Passer à l'action"
+			},
+			"Next" : {
+				"Video_id" : "PUqdBvKTvAE",
+				"Name" : "LGQS - la monnaie"
+			}
+		}
+	},
+	"4": {
+		"Name": "Imago Médias",
+		"Icon": "/img/Logo/Imago_Medias",
+		"Video" : {
+			"Now" : {
+				"Video_id" : "1kBy0NhalGw",
+				"Name" : "Langue de Bois"
+			},
+			"Next" : {
+				"Video_id" : "-dr5It4xr98",
+				"Name" : "La Tronche en Biais"
+			}
+		}
+	},
+	"5": {
+		"Name": "Imago Ecologie",
+		"Icon": "/img/Logo/Imago_Ecologie",
+		"Video" : {
+			"Now" : {
+				"Video_id" : "_CUHEoSpnqM",
+				"Name" : "Prof Feuillage"
+			},
+			"Next" : {
+				"Video_id" : "rxhWwYxI4Rw",
+				"Name" : "Jardiniers, Levez-vous !"
+			}
+		}
+	},
+	"6": {
+		"Name": "Imago Economie",
+		"Icon": "/img/Logo/Imago_Economie",
+		"Video" : {
+			"Now" : {
+				"Video_id" : "4Lc4hvhqps4",
+				"Name" : "Heureka"
+			},
+			"Next" : {
+				"Video_id" : "mElKBSqzvt4",
+				"Name" : "Economicons"
+			}
+		}
+	},	
+	"7": {
+		"Name": "Imago Société",
+		"Icon": "/img/Logo/Imago_Societe",
+		"Video" : {
+			"Now" : {
+				"Video_id" : "I6aO0A4yemc",
+				"Name" : "La Barbe - les médias"
+			},
+			"Next" : {
+				"Video_id" : "nlZsdVgf8Ww",
+				"Name" : "Thinkerview - Ph. Pascot"
+			}
+		}
+	}
+}

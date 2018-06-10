@@ -1,0 +1,31 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/L_Avocate_Logo.jpg",
+	"Titre_Emission": "L'Avocate",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Anne-Sophie Bajon",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Anne_Sophie_Bajon.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 5 min",
+	"Nombre_Saison": "1",
+	"Nombre_Video": "8",
+	"Categorie_Emission": "Société",
+	"Type_Emission": "One man show",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/L_Avocate.jpg",
+	"Saisons": {
+		"1": {
+			"1": "gHn33eoRqbg",
+			"2": "P_WqM4-Xj3Q",
+			"3": "TxeWoiAxlf4",
+			"4": "tVdEHYMdDzk",
+			"5": "KLGyTbV1eLQ",
+			"6": "uurKdEdddGE",
+			"7": "QX9TzApt4w0",
+			"8": "WYuIfIDP26U"
+		}
+	}
+}

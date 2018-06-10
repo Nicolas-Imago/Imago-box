@@ -1,0 +1,61 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Democratie_et_Theorie_des_Jeux_Logo.jpg",
+	"Titre_Emission": "Démocratie et Jeux",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Lê",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Le.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 5 min",
+	"Nombre_Saison": "3",
+	"Nombre_Video": "34",
+	"Categorie_Emission": "Société",
+	"Type_Emission": "Comédie",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Democratie_et_Theorie_des_Jeux.jpg",
+	"Saisons": {
+		"1": {
+			"1": "fBYCoPAmpr4",
+			"2": "UIQki2ETZhY",
+			"3": "VNcj7-XUhoc",
+			"4": "_MAo8pUl0U4",
+			"5": "wKimU8jy2a8",
+			"6": "VH5XoLEM_OA",
+			"7": "Re7fycp7vIk",
+			"8": "4dxwQkrUXpY",
+			"9": "jxsx4WdmoJg",
+			"10": "0WfcgfGTMlY",
+			"11": "MSjbxYEe-yU",
+			"12": "k3N5BsKmvg0"
+		},
+		"2": {
+			"1": "9dXCvjL04uw",
+			"2": "uijJJ2OczNs",
+			"3": "QrfTvzmiLGQ",
+			"4": "1onCF9PfiAo",
+			"5": "oHYcOXi06uY",
+			"6": "zRMPT9ksAsA",
+			"7": "FjP5JMUVXxw",
+			"8": "qruxfBdYTh8",
+			"9": "rgzWqAyZW7o",
+			"10": "kefptSDi0Es",
+			"11": "DHw-dvrAv58",
+			"12": "QMIfjUerDzY"
+		},
+		"3": {
+			"1": "W-GAqomxGmo",
+			"2": "4JaeQ66_-zs",
+			"3": "ki26tUbxpnU",
+			"4": "Uu6K0uR9bus",
+			"5": "jIHRAVq8IB4",
+			"6": "fYioC7v1F3U",
+			"7": "7yztDRsarcY",
+			"8": "BVbAYIT92Ws",
+			"9": "QyrrvEuRNWU",
+			"10": "yXEdspuLHsY"
+		}
+	}
+}

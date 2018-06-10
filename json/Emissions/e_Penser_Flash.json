@@ -1,0 +1,31 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/e_Penser_Flash_Logo.jpg",
+	"Titre_Emission": "Flash e-penser",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Bruce Benamran",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Bruce_Benamran.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 5 min",
+	"Nombre_Saison": "1",
+	"Nombre_Video": "8",
+	"Categorie_Emission": "Culture",
+	"Type_Emission": "face caméra",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/e_Penser.jpg",
+	"Saisons": {
+		"1": {
+			"1": "nP4qhtC16ic",
+			"2": "ACr_g0r5OEM",
+			"3": "xVHvgINaLok",
+			"4": "h6oxaidos-c",
+			"5": "6R9mqb_ZNr4",
+			"6": "4zDVjh5Fm1g",
+			"7": "lZm3VjP5cAw",
+			"8": "tbyJWkJnZYk"
+		}
+	}
+}

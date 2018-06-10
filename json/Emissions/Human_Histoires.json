@@ -1,0 +1,61 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Human_Logo.jpg",
+	"Titre_Emission": "1 Question, 1 réponse",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Yann-Arthus Bertrand",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Yann_Arthus_Bertrand.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 5 min",
+	"Nombre_Saison": "3",
+	"Nombre_Video": "34",
+	"Categorie_Emission": "Conscience",
+	"Type_Emission": "Témoignage",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Human_Histoires.jpg",
+	"Saisons": {
+		"1": {
+			"1": "jLoFtn6suts",
+			"2": "dovgBLucqpM",
+			"3": "PRmbN0xWiSI",
+			"4": "kwV-W0FBcOg",
+			"5": "M4g9CIziCs4",
+			"6": "oIjLtqK1nrg",
+			"7": "BOPGkah4-Xc",
+			"8": "60ZIea4Owzc",
+			"9": "IPkOD2VtBVQ",
+			"10": "3aC13zfYyA0",
+			"11": "O9G0NIFyN20",
+			"12": "9wsm4KPOFG8"
+		},
+		"2": {
+			"1": "yR7ICXblbd8",
+			"2": "P4rzMrlztLg",
+			"3": "Wk1jWgtJuiU",
+			"4": "HtNR-EnQjTg",
+			"5": "J966tUG743k",
+			"6": "VraZgJ4xn5s",
+			"7": "sGsL7q0NrgM",
+			"8": "vxsIxsw9kuE",
+			"9": "-plqOpup3U8",
+			"10": "60801Vld_Wc",
+			"11": "s0loGyfADHk",
+			"12": "x0kk6uZbx2Y"
+		},
+		"3": {
+			"1": "qzV0Zk6hJUI",
+			"2": "vguSOszbxUE",
+			"3": "clhkeSAWlq0",
+			"4": "NwiOElyniII",
+			"5": "_ZO45wQVFGs",
+			"6": "5R9QjgLNMaE",
+			"7": "nDb3uJ-Ty3g",
+			"8": "wHonjxag4Cw",
+			"9": "rwwwM0_6Rqo",
+			"10": "0V0AYoHr3GQ"
+		}
+	}
+}

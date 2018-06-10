@@ -1,0 +1,25 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Fokus_Histoire_Logo.jpg",
+	"Titre_Emission": "Fokus Histoire",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Johann Elbory",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Johann_Elbory.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 20 min",
+	"Nombre_Saison": "1",
+	"Nombre_Video": "2",
+	"Categorie_Emission": "Société",
+	"Type_Emission": "Comédie",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Fokus_Histoire.jpg",
+	"Saisons": {
+		"1": {
+			"1": "MSs1w_0rHj8",
+			"2": "-YylEXAV_do"
+		}
+	}	
+}

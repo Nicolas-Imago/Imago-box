@@ -1,0 +1,47 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Hygiene_Mentale_Logo.jpg",
+	"Titre_Emission": "Hygiène Mentale",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Christophe Michel",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Christophe_Michel.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 20 min",
+	"Nombre_Saison": "2",
+	"Nombre_Video": "22",
+	"Categorie_Emission": "Médias",
+	"Type_Emission": "Infographie",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Education_aux_Medias.jpg",
+	"Saisons": {
+		"1": {
+			"1": "qrA5HgFIjJE",
+			"2": "wtJwVZGuiOY",
+			"3": "2XPtzAQxMPw",
+			"4": "iCyS9mgXJpg",
+			"5": "_f6HzL0Nh2g",
+			"6": "o6zk1WzTT-o",
+			"7": "ZxSTXnmzbvU",
+			"8": "tBfxnYtV4sc",
+			"9": "_8ytSdUtxbo",
+			"10": "1c1jZQ9Bkq0",
+			"11": "ZSI5IK8Lu8s",
+			"12": "R9McgUw6kso"
+		},
+		"2": {
+			"1": "pyj6ysoUBNw",
+			"2": "oniJv4raglM",
+			"3": "rhnb21RZsWk",
+			"4": "IduaHsRywuw",
+			"5": "jv1wuvpz1eU",
+			"6": "uG2PcA3Ynt0",
+			"7": "09Fgix9yqbk",
+			"8": "eLLIm-GpJh4",
+			"9": "_W0CK0TRWc8",
+			"10": "0ZqVkuh9Iz4"
+		}
+	}
+}

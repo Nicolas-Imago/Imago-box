@@ -1,0 +1,24 @@
+{
+	"TVShowScreen": {
+		"Duration": {
+			"fr": "Durée :",
+			"en": "Duration :"
+		},
+		"Category": {
+			"fr": "Catégorie :",
+			"en": "Category :"
+		},
+		"Type": {
+			"fr": "Type :",
+			"en": "Type :"
+		},
+		"Accessibility": {
+			"fr": "Facilité de compréhension :",
+			"en": "Accessibility :"
+		},
+		"Commitment": {
+			"fr": "Engagement militant :",
+			"en": "Commitment :"
+		}
+	}
+}

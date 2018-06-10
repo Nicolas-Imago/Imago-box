@@ -1,0 +1,29 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/1Q1R_Logo.jpg",
+	"Titre_Emission": "1 Question, 1 réponse",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Bruno & Nicolas",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Bruno_Dollone.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 4 min",
+	"Nombre_Saison": "1",
+	"Nombre_Video": "4",
+	"Categorie_Emission": "Société",
+	"Type_Emission": "Animation",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/1Q1R.jpg",
+	"Saisons": {
+		"1": {
+			"1": "8KG7C_6cPyw",
+			"2": "TJ26DywiGfo",
+			"3": "RX6ART6swZE",
+			"4": "yJ8GrQ77-fs",
+			"5": "",
+			"6": ""
+		}
+	}
+}

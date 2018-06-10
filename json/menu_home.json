@@ -1,0 +1,86 @@
+{
+	"1": {
+		"Name": "         en direct",
+		"Color": "WHITE",
+		"Action": "live",
+		"Link": "live",
+		"Icon": "/img/Icons/Level_1/imago_small"
+	},
+	"2": {
+		"Name": "",
+		"Color": "WHITE",
+		"Action": "",
+		"Link": "",
+		"Icon": "/img/Icons/Level_1/menu_blank"
+	},
+	"3": {
+		"Name": "Emissions TV",
+		"Color": "WHITE",
+		"Action": "sub-category",
+		"Link": "menu_tvshow",
+		"Icon": "/img/Icons/Level_1/menu_tvshow"
+	},
+	"4": {
+		"Name": "Documentaires",
+		"Color": "WHITE",
+		"Action": "",
+		"Link": "menu_tvshow",
+		"Icon": "/img/Icons/Level_1/menu_documentary"
+	},
+	"5": {
+		"Name": "Courts-métrages",
+		"Color": "WHITE",
+		"Action": "grid",
+		"Link": "shortfilm_list",
+		"Icon": "/img/Icons/Level_1/menu_shortfilm"
+	},
+	"6": {
+		"Name": "Emissions radio",
+		"Color": "WHITE",
+		"Action": "",
+		"Link": "menu_radio",
+		"Icon": "/img/Icons/Level_1/menu_radio"
+	},
+	"7": {
+		"Name": "Humour",
+		"Color": "WHITE",
+		"Action": "grid",
+		"Link": "humour_list",
+		"Icon": "/img/Icons/Level_1/menu_humour"
+	},	
+	"8": {
+		"Name": "Jeunesse",
+		"Color": "WHITE",
+		"Action": "",
+		"Link": "menu_kids",
+		"Icon": "/img/Icons/Level_1/menu_kids"
+	},	
+	"9": {
+		"Name": "Musique",
+		"Color": "WHITE",
+		"Action": "grid",
+		"Link": "music_list",
+		"Icon": "/img/Icons/Level_1/menu_music"
+	},
+	"10": {
+		"Name": "",
+		"Color": "WHITE",
+		"Action": "",
+		"Link": "",
+		"Icon": "/img/Icons/Level_1/menu_blank"
+	},	
+	"11": {
+		"Name": "Mes favoris",
+		"Color": "WHITE",
+		"Action": "screen",
+		"Link": "FAVORITES",
+		"Icon": "/img/Icons/Level_1/menu_favorites"
+	},	
+	"12": {
+		"Name": "Mes amis aiment",
+		"Color": "WHITE",
+		"Action": "screen",
+		"Link": "FRIENDS",
+		"Icon": "/img/Icons/Level_1/menu_friends"
+	}
+}

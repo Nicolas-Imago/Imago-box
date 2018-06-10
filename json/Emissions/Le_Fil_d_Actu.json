@@ -1,0 +1,108 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Le_Fil_d_Actu_Logo.jpg",
+	"Titre_Emission": "Le Fil d'Actu",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Tatiana, Tommy & Johann",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Tatiana_Jarzabek.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 12 min",
+	"Nombre_Saison": "5",
+	"Nombre_Video": "73",
+	"Categorie_Emission": "Société",
+	"Type_Emission": "Journal",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Le_Fil_d_Actu.jpg",
+	"Saisons": {
+		"1": {
+			"1": "Gx75guyRGJY",
+			"2": "e3MvTSKhcLA",
+			"3": "WPbT04SgpzY",
+			"4": "vxZ6U0Njc6M",
+			"5": "AFTzerDz_14",
+			"6": "0oEQiIMNPW4",
+			"7": "RCDTiDZtbsc",
+			"8": "Se32K8VAm7M",
+			"9": "sWzWCAc7Ekw",
+			"10": "2D8fPC1YypU",
+			"11": "ksVOax7jwKA",
+			"12": "T_HHWbFHlTY"
+		},
+		"2": {
+			"1": "sVM0kuUxl_A",
+			"2": "j1AzcQ97z0Y",
+			"3": "ty5Xz9hb8fA",
+			"4": "fw7BCAsIYk4",
+			"5": "_GU69oVY1n8",
+			"6": "GjefpWmu8WI",
+			"7": "m_CRoFBkN64",
+			"8": "UTdHukK9XwU",
+			"9": "QMqY96Wvm6I",
+			"10": "5KK_ffvJaQw",
+			"11": "XR4CJ5vTsns",
+			"12": "GXJXq7B3I60"
+		},
+		"3": {
+			"1": "BXzsk_2SuB4",
+			"2": "Iu2S-H6RP9g",
+			"3": "zYks0I4d_oE",
+			"4": "Vgk_VZ00T0o",
+			"5": "LE2OH6Oa8ho",
+			"6": "mfeB2ceha_4",
+			"7": "2feYeizLU6o",
+			"8": "bThc03Susbg",
+			"9": "nlkBCFQIvEg",
+			"10": "7c4piw3yFaM",
+			"11": "OWRH65spJk4",
+			"12": "3v8FX4gMRlo"
+		},
+		"4": {
+			"1": "Y9nK7LAYMJU",
+			"2": "fBnG5eA4PEU",
+			"3": "C_7DSI516jI",
+			"4": "wmTvQbudCIk",
+			"5": "zwV-dj0oudw",
+			"6": "M5ACpQVo3QQ",
+			"7": "2kjvvmyD-WI",
+			"8": "ehi_DXIRdSI",
+			"9": "kwZBnrXGMOg",
+			"10": "DYd-Lq6YMu8",
+			"11": "6l9MZ2l_DUg",
+			"12": "mWibzzy1Gg4"
+		},
+		"5": {
+			"1": "Xp0V1mL5XhE",
+			"2": "8erw1R_PF7k",
+			"3": "F9pJzbHrkGo",
+			"4": "BBONjcJxRLU",
+			"5": "_7W4EQmJ6Mw",
+			"6": "chEmsiopkpg",
+			"7": "FZN3fR7DL_4",
+			"8": "mnjF3tZ-KOo",
+			"9": "0Z0Ksei6J6Y",
+			"10": "BAsY5g97dwg",
+			"11": "OzhI3HS9qh4",
+			"12": "IAlPk68oVpc"
+		},
+		"6": {
+			"1": "H3UOnPQA6Hk",
+			"2": "-0liKk7W3aQ",
+			"3": "58vFkAmABt8",
+			"4": "bmQ0Fh5vkrA",
+			"5": "W0tx7PDW4Lk",
+			"6": "mLgHsF6MQIE",
+			"7": "0L2APo0IQOM",
+			"8": "PGMo65T93r0",
+			"9": "fClYwIeDdoQ",
+			"10": "mIijfwCxLZM",
+			"11": "-bcy8Z8-JQw",
+			"12": "EQwFCw1ihII"
+		},
+		"7": {
+			"1": "gwHaZw9BDy4"
+		}
+	}
+}

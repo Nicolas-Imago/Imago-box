@@ -1,0 +1,35 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/ma_Revolution_Interieure_Logo.jpg",
+	"Titre_Emission": "ma Révolution",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Mouvement Colibris",
+			"Image_Auteur": ""
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 5 min",
+	"Nombre_Saison": "1",
+	"Nombre_Video": "12",
+	"Categorie_Emission": "Conscience",
+	"Type_Emission": "Interview",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/ma_Revolution_Interieure.jpg",
+	"Saisons": {
+		"1": {
+			"1": "3OQ6Sln8_F8",
+			"2": "JUBtcIxAVeI",
+			"3": "372YR-aVxrQ",
+			"4": "AKdyoWrK9JU",
+			"5": "hKmzBHauqMQ",
+			"6": "7f0lGmaltDw",
+			"7": "5EoNigBkmOA",
+			"8": "WdfDE1eGOoQ",
+			"9": "gWLoMcVoHaU",
+			"10": "si1zQrZ7oS8",
+			"11": "qwtLKJjV8QQ",
+			"12": "KceKMvOwRCk"
+		}
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Et_Tout_le_Monde_s_en_Fout_Logo.jpg",
+	"Titre_Emission": "Tout l'monde s'en fout",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Axel, Fabrice & Marc",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Axel_Lattuada.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 5 min",
+	"Nombre_Saison": "2",
+	"Nombre_Video": "18",
+	"Categorie_Emission": "Société",
+	"Type_Emission": "Comédie",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Et_Tout_le_Monde_s_en_Fout.jpg",
+	"Saisons": {
+		"1": {
+			"1": "EDDxAIhHt08",
+			"2": "3s8-GtFt6f4",
+			"3": "_DakEvdZWLk",
+			"4": "MWwJGhtsH54",
+			"5": "YhJ4BwKdkOA",
+			"6": "Kxkvba3GH3g",
+			"7": "mym9UzxOs5g",
+			"8": "YzyOGhWO3Gk",
+			"9": "mriGX5DutlM",
+			"10": "_QMpyljfBAE",
+			"11": "a82VN1RZI-k",
+			"12": "Tnfk44DzBEs"
+		},
+		"2": {
+			"1": "N67C7G5y9Dk",
+			"2": "Qcd4VIkCI3k",
+			"3": "VD4ne7VuFVs",
+			"4": "ByqBT1loIFI",
+			"5": "zDaUwkfoH_g",
+			"6": "kF1_qecmP4Y"
+		}
+	}
+}

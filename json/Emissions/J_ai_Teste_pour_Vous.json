@@ -1,0 +1,71 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/J_ai_Teste_pour_Vous_Logo.jpg",
+	"Titre_Emission": "J'ai Testé pour Vous",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Nathalie Lefebvre",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Nathalie_Lefebvre.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 10 min",
+	"Nombre_Saison": "4",
+	"Nombre_Video": "42",
+	"Categorie_Emission": "Conscience",
+	"Type_Emission": "Reportages",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/J_ai_Teste_pour_Vous.jpg",
+	"Saisons": {
+		"1": {
+			"1": "prEdP89R2LM",
+			"2": "VOBRnp7beDU",
+			"3": "l3fSXc2ewEk",
+			"4": "YiblBg5ZEJ0",
+			"5": "neLiAPJ8bA4",
+			"6": "YPOkZULtwcU",
+			"7": "Yo0AuslYOHY",
+			"8": "HT_hkLDzavU",
+			"9": "LFOfLwTll9s",
+			"10": "79F3TW0jA6E",
+			"11": "nNFQDj4DPXk",
+			"12": "5p8ikUjb774"
+		},
+		"2": {
+			"1": "UaRe1-5gPfc",
+			"2": "jxN0Eg43RkM",
+			"3": "cy3a4IrtUdQ",
+			"4": "-gOl2M9oD94",
+			"5": "MxiihpeH9LA",
+			"6": "tvX-Hte61qI",
+			"7": "QFc_o7OzwbE",
+			"8": "QTtnF4VwxUA",
+			"9": "5pJ4WSias0o",
+			"10": "XezK9QP6fTs",
+			"11": "mtvzr_MDpHM",
+			"12": "eJIgHlY68Cs"
+		},
+		"3": {
+			"1": "KIF93pajhIk",
+			"2": "BBWuRMKXPWY",
+			"3": "e030WRejwUE",
+			"4": "dowkNQfxAKs",
+			"5": "uwjU8GuNJgw",
+			"6": "tvsm-7lFinQ",
+			"7": "DBfaCk94cpQ",
+			"8": "cPmk8jvqIS0",
+			"9": "fZ7nme0_Q3Y",
+			"10": "bVMBuXHvYrQ",
+			"11": "6MG_oN3dX0M",
+			"12": "KLXFhKisFys"
+		},
+		"4": {
+			"1": "K_9rqB9akRE",
+			"2": "yImxJ7nKzmQ",
+			"3": "nTYQe_Se5Ys",
+			"4": "1AUJatl7XX4",
+			"5": "p6R9EQbMKHY",
+			"6": "rqqMlMIMYnQ"
+		}
+	}
+}

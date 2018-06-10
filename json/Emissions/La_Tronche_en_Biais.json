@@ -1,0 +1,30 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/La_Tronche_en_Biais_Logo.jpg",
+	"Titre_Emission": "La Tronche en Biais",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Vled & Thomas",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Vled_Tapas.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 5 min",
+	"Nombre_Saison": "1",
+	"Nombre_Video": "7",
+	"Categorie_Emission": "Société",
+	"Type_Emission": "Comédie",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/La_Tronche_en_Biais.jpg",
+	"Saisons": {
+		"1": {
+			"1": "-dr5It4xr98",
+			"2": "fCUIlQcZ8tU",
+			"3": "Hf-KkI2U8b8",
+			"4": "2msN0dbn2Y4",
+			"5": "6cxEu-OP5mM",
+			"6": "31qBTKGf2Gk",
+			"7": "5lXIK_4tpDs"
+		}
+	}
+}

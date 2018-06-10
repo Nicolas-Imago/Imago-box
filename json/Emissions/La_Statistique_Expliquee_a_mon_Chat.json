@@ -1,0 +1,39 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/La_Statistique_Expliquee_a_mon_Chat_Logo.jpg",
+	"Titre_Emission": "La Statistique...",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Nathan & Laura",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Nathan_Uyttendaele.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 5 min",
+	"Nombre_Saison": "2",
+	"Nombre_Video": "14",
+	"Categorie_Emission": "Sciences",
+	"Type_Emission": "Infograhie",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/La_Statistique_Expliquee_a_mon_Chat.jpg",
+	"Saisons": {
+		"1": {
+			"1": "ntNF_VIYexQ",
+			"2": "aOX0pIwBCvw",
+			"3": "HRnYFpdR8WM",
+			"4": "vfTJ4vmIsO4",
+			"5": "K7JtROPr2Zs",
+			"6": "THk2GBxkg4o",
+			"7": "uIx2xvdwIIo",
+			"8": "4dhm2QAA2x4",
+			"9": "ydFQr1aQEAU",
+			"10": "4XCOkWo9Q4Q",
+			"11": "4EWKAoKGAyg",
+			"12": "K-kUUg4gs1c"
+		},
+		"2": {
+			"1": "5HeJnQL7QM0",
+			"2": "MOjkfxQ49HY"
+		}
+	}
+}

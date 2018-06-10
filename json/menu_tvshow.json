@@ -1,0 +1,51 @@
+{
+	"1": {
+		"Name": "Culture",
+		"Color": "VIOLET",
+		"Action": "grid",
+		"Link": "tvshow_list",
+		"Icon": "/img/Icons/Level_2/menu_culture"
+	},
+	"2": {
+		"Name": "Spiritualité",
+		"Color": "PINK",
+		"Action": "grid",
+		"Link": "tvshow_list",
+		"Icon": "/img/Icons/Level_2/menu_spirit"
+	},
+	"3": {
+		"Name": "Alternatives",
+		"Color": "RED",
+		"Action": "grid",
+		"Link": "tvshow_list",
+		"Icon": "/img/Icons/Level_2/menu_alternative"
+	},
+	"4": {
+		"Name": "Médias",
+		"Color": "ORANGE",
+		"Action": "grid",
+		"Link": "tvshow_list",
+		"Icon": "/img/Icons/Level_2/menu_media"
+	},
+	"5": {
+		"Name": "Ecologie",
+		"Color": "GREEN",
+		"Action": "grid",
+		"Link": "tvshow_list",
+		"Icon": "/img/Icons/Level_2/menu_ecology"
+	},
+	"6": {
+		"Name": "Economie",
+		"Color": "GREEN_BLUE",
+		"Action": "grid",
+		"Link": "tvshow_list",
+		"Icon": "/img/Icons/Level_2/menu_economy"
+	},	
+	"7": {
+		"Name": "Société",
+		"Color": "BLUE",
+		"Action": "grid",
+		"Link": "tvshow_list",
+		"Icon": "/img/Icons/Level_2/menu_society"
+	}
+}

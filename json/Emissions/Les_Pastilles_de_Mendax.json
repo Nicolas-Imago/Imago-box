@@ -1,0 +1,28 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Les_Pastilles_de_Mendax_Logo.jpg",
+	"Titre_Emission": "Pastilles de Mendax",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Thomas Durand",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Thomas_Durand.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 5 min",
+	"Nombre_Saison": "1",
+	"Nombre_Video": "5",
+	"Categorie_Emission": "Société",
+	"Type_Emission": "Comédie",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Les_Pastilles_de_Mendax.jpg",
+	"Saisons": {
+		"1": {
+			"1": "dUvcwG_H4U4",
+			"2": "fNKaXXKfi0A",
+			"3": "46zIv4gNuN4",
+			"4": "HwGohcnFlJs",
+			"5": "bgDEdevcQ_0"
+		}
+	}
+}

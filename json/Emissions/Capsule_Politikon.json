@@ -1,0 +1,30 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Capsule_Politikon_Logo.jpg",
+	"Titre_Emission": "Capsule Politikon",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Karim",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Karim_Politikon.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 5 min",
+	"Nombre_Saison": "1",
+	"Nombre_Video": "7",
+	"Categorie_Emission": "Société",
+	"Type_Emission": "face caméra",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Politikon.jpg",
+	"Saisons": {
+		"1": {
+			"1": "V3Ix-DWZhSc",
+			"2": "nNYO67E1Je0",
+			"3": "BvQs2jMlCMo",
+			"4": "toQQ_Qjq6yY",
+			"5": "eFa5Jzun7SE",
+			"6": "EEBzKPhpxSY",
+			"7": "7adBSFWpa-k"
+		}
+	}
+}

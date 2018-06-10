@@ -1,0 +1,39 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/La_Pastille_Verte_de_Bridget_Kyoto_Logo.jpg",
+	"Titre_Emission": "La pastille verte",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "Laure Noualhat",
+			"Image_Auteur": "Imago/img/Images_Auteurs/Laure_Noualhat.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 2 min",
+	"Nombre_Saison": "2",
+	"Nombre_Video": "14",
+	"Categorie_Emission": "Ecologie",
+	"Type_Emission": "Comédie",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/La_Pastille_Verte_de_Bridget_Kyoto.jpg",
+	"Saisons": {
+		"1": {
+			"1": "oOlu-bVQLXA",
+			"2": "57iJwVypuPk",
+			"3": "aP8S7lvdN9k",
+			"4": "sfuw8hlYKY0",
+			"5": "R-Gig_klQx0",
+			"6": "uz2PrIlAGqY",
+			"7": "VnqulBDAvu0",
+			"8": "fZ7PIXKi-x8",
+			"9": "7LYE4ohRG8M",
+			"10": "wqOKxejOwDo",
+			"11": "37bH-YyQWWc",
+			"12": "ZTZH55BWtOE"
+		},
+		"2": {
+			"1": "4F09nxNXpY4",
+			"2": "fC6OBkWoNpY"
+		}
+	}
+}

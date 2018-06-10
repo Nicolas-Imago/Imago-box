@@ -1,0 +1,50 @@
+{
+	"1": {
+		"Name": "Chaines TV",
+		"Action": "sub-category"
+		"Sub-category": "menu_channels",
+		"icon": "/img/icons/channels"
+	},
+	"2": {
+		"Name": "Emissions TV",
+		"Action": "sub-category"
+		"Sub-category": "menu_tvshow",
+		"icon": "/img/icons/tvshow"
+	},
+	"3": {
+		"Name": "Documentaires",
+		"Action": "sub-category"
+		"Sub-category": "menu_documentary",
+		"icon": "/img/icons/documentary"
+	},
+	"4": {
+		"Name": "Courts-métrages",
+		"Action": "sub-category"
+		"Sub-category": "menu_shortfilm",
+		"icon": "/img/icons/shortfilm"
+	},
+	"5": {
+		"Name": "Emissions radio",
+		"Action": "sub-category"
+		"Sub-category": "menu_radio",
+		"icon": "/img/icons/radio"
+	},
+	"6": {
+		"Name": "Spectacles",
+		"Action": "sub-category"
+		"Sub-category": "menu_show",
+		"icon": "/img/icons/show"
+	},	
+	"7": {
+		"Name": "Jeunesse",
+		"Action": "sub-category"
+		"Sub-category": "menu_kids",
+		"icon": "/img/icons/kids"
+	},	
+	"8": {
+		"Name": "Musique",
+		"Action": "sub-category"
+		"Sub-category": "menu_music",
+		"icon": "/img/icons/music"
+	}
+}

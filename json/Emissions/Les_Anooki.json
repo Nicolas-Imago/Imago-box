@@ -1,0 +1,62 @@
+{
+	"Image_Emission": "Imago/img/Images_Emissions/Les_Anooki_Logo.jpg",
+	"Titre_Emission": "Les Anooki",
+	"Auteurs_Emission": {
+		"1": {
+			"Nom_Auteur": "David & Moetu",
+			"Image_Auteur": "Imago/img/Images_Auteurs/David_Passegand.png"
+		}
+	},
+	"Description_Emission": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum...",
+	"Duree_Emission": "~ 2 min",
+	"Nombre_Saison": "3",
+	"Nombre_Video": "35",
+	"Categorie_Emission": "Humour",
+	"Type_Emission": "Infographie",
+	"Accessibilite" : "1",
+	"Engagement" : "3",
+	"Image_Illustration": "Imago/img/Images_Illustrations/Les_Anooki.jpg",
+	"Saisons": {
+		"1": {
+			"1": "siNdu_BgyBE",
+			"2": "p8uS6u4TDCI",
+			"3": "WI9YRvQ2ni4",
+			"4": "cEoojSVvAGE",
+			"5": "KUI6ZgnT3Gk",
+			"6": "HD_K10xzD9c",
+			"7": "deO9U3xUWE0",
+			"8": "XBJks2pyo-4",
+			"9": "pTgdlbY78fU",
+			"10": "sqZANLcY810",
+			"11": "7ldtG1KKZlE",
+			"12": "hYe9_VUNNM4"
+		},
+		"2": {
+			"1": "P6rl9dIIeng",
+			"2": "S-jdcVWkjAQ",
+			"3": "RGL6FNEVVfY",
+			"4": "na0n_iOae2E",
+			"5": "l-xyVx41u_I",
+			"6": "EuWSY5gdK4I",
+			"7": "5aEzVbfumg4",
+			"8": "SwOHG6NWn5s",
+			"9": "6aAw8QZHq44",
+			"10": "t5X7b_F0oi4",
+			"11": "Kiq0d52Gtm0",
+			"12": "wS8uNO180WI"
+		},
+		"3": {
+			"1": "4MuZzzC5pIw",
+			"2": "OH8fhz7whoQ",
+			"3": "U8PqGcq6nDg",
+			"4": "y9qGgCj8zWk",
+			"5": "8nIbO4wElag",
+			"6": "2TAz2qjbHl0",
+			"7": "zyy15AqQ3ao",
+			"8": "lWQR4hlZhEA",
+			"9": "T4RTs7XpHrM",
+			"10": "YsbKlslHcI8",
+			"11": "0EhcTBU1Aqc"
+		}
+	}
+}
